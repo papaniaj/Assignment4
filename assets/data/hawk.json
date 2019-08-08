@@ -1,0 +1,22 @@
+{
+    "Hawk": [
+      {
+        "Species": "Northern Goshawk",
+        "Fact1": "Mainly eat pidgeons, squirrels, and rabbits.  They knead their prey to death.",
+        "Fact2": "Territorial skirmishes may on occasion escalate to physical fights in which mortalities may occur. In actual fights, goshawks fall grappling to the ground as they attempt to strike each other with talons.",
+        "Image": "assets/images/NorthernGoshawk.jpg"
+      },
+      {
+        "Species": "Sharp-shinned hawk",
+        "Fact1": "It is a small hawk, with males being the smallest hawks in the United States and Canada, but with the species averaging larger than some Neotropical(South America) species, such as the tiny hawk.",
+        "Fact2": "The sharp-shinned hawk is sometimes separated into four species, with the northern group retaining both the scientific name and the common name: sharp-shinned hawk (A. striatus).",
+        "Image": "assets/images/SharpedShinnedHawk.jpg"
+      },
+      {
+        "Species": "Red-tailed hawk",
+        "Fact1": "The diet of red-tailed hawks is highly variable and reflects their status as opportunistic generalists. Prey that is terrestrial and diurnal is preferred. Birds and reptiles can be eaten and can even be the primary foods.",
+        "Fact2": "They are also know as chickenhawk ins the United States because they sometimes prey on standard-sized chickens",
+        "Image": "assets/images/RedTailedHawk.jpg"
+      }
+    ]
+  }

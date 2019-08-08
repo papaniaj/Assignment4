@@ -1,0 +1,22 @@
+{
+    "Wolf": [
+      {
+        "Species": "Eastern Wolf",
+        "Fact1": "Mix between grey wolf and coyote, making them unique and worthy of conservation",
+        "Fact2": "It primarily preys on white-tailed deer, but may occasionally attack moose and beavers.",
+        "Image": "assets/images/EasternWolf.jpg"
+      },
+      {
+        "Species": "Arctic Wolf",
+        "Fact1": "Since 1930, there has been a progressive reduction in size in Arctic wolf skulls, which is likely the result of wolf-dog hybridization.",
+        "Fact2": "In the wild, Arctic wolves primarily prey on muskoxen and Arctic hares. They have also been found to prey on lemmings, caribou, Arctic foxes, birds and beetles.",
+        "Image": "assets/images/ArcticWolf.jpg"
+      },
+      {
+        "Species": "British Columbia Wolf",
+        "Fact1": "Also known as coastal wolves or sea wolves because the can swim across miles between islands on the British Columbia coast",
+        "Fact2": "Mainly eat salmon from the wild grey Pacific Ocean.",
+        "Image": "assets/images/SeaWolf.jpg"
+      }
+    ]
+  }
